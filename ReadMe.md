@@ -51,7 +51,7 @@ fastapi deploy
 - CLI uygulamayı otomatik algılar, deploy eder ve sana `https://<uygulama-adi>.fastapicloud.dev` gibi bir URL verir.
 - İlk deploy sonrası klasörde `.fastapicloud` dizini oluşur; sonraki güncellemelerde yine sadece `fastapi deploy` çalıştırman yeterli.
 
-3. Verilen URL'yi ve `/docs` sayfasını ödev tesliminde paylaşabilirsin.
+ 
 
 ## Dosya Yapısı
 
